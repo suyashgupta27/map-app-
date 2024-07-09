@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 const mongoose = require("mongoose");
 
 const PinSchema = new mongoose.Schema(
@@ -36,3 +37,6 @@ const PinSchema = new mongoose.Schema(
 );
 
 module.exports = mongoose.model("Pin", PinSchema);
+=======
+<Hello>suyash</Hello>
+>>>>>>> Stashed changes
